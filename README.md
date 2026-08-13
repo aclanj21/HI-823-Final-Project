@@ -1,9 +1,9 @@
 # HI-823-Final-Project
 
-John Nathaniel Aclan
-HI-823-004 Health Informatics
-Instructor: Abdul Hafeez
-Semester: Summer 2026
+# John Nathaniel Aclan
+# HI-823-004 Health Informatics
+# Instructor: Abdul Hafeez
+# Semester: Summer 2026
 
 Project Overview:
 The project uses the machine learning and causal analysis to examine the stroke risk using the demographic, clinical, and lifestyle choices.
